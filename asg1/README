@@ -1,0 +1,87 @@
+CMPS 109 Fall 2016: Assignment 1 
+Assigned: Thursday, October 29 in Class 
+
+Due: Tuesday, October 11 at 13:00 
+ 
+
+Delayed submission with penalty until Friday 14 October mid-night 
+
+ 
+Goals 
+
+The goal of the assignment is to traverse the different functionalities and 
+features of the C++ language, and to be able to identify the difference between 
+different versions of the C++ language. C++ was subject to an evolution process 
+that resulted in different incremental versions starting with C++98. This 
+assignment is more like a research task, and you are asked to write a survey 
+paper that identifies such differences. The objective is to urge you to read ahead 
+about the new features in C++11/14 and study them so when you attend the 
+lectures you are familiar with the concepts.  
+ 
+
+Details 
+
+Conduct a comparison between the different C++ versions: C++98, C++11, 
+C++14,C++17. Consider the C++98 as the base for your comparison and start 
+enumerating newly added features inclemently in each version starting from 
+C++11. You are expected to present at least: 
+1. 	6 Features for C++11 
+2. 	4 Features for C++14 
+3. 	2 Expected Features for C++17 
+ 
+This is the minimum, and it is advisable to present more features so you can 
+make up for mistakes in your survey. Also you will be required to provide simple 
+examples for each feature you present (only for C++11 and C++14); very small 
+snippets of code but need to be of your own. IMPORTANT: do not present 
+examples from lectures slides or from the web, e.g. cppreference.com. 
+ 
+
+What to submit 
+
+1. 	A report that enumerate the features. Each feature should have paragraph 
+	explaining it clearly and the benefits entailed, as well as an example 
+	showing such benefits. 
+2. 	Your report should be submitted in PDF format. 
+3. 	The set of C++ examples you develop during your survey research in 
+	source code. 
+4. 	Source code should have inline documentation. 
+5. 	Each example should be located in a file with the following format: 
+	example<Example Number>_c_plus_plus_<C++ Version>.cpp, the same 
+	format should be applied to .h files. 
+6. 	In your report, include a reference section for any sources you have used 
+	in your survey (Bibliography). 
+ 
+
+How to submit: 
+
+The git repo is now ready for you to checkout. Use this tutorial at 
+https://git.soe.ucsc.edu/ ̃git/index.html to setup your repo local version. Include 
+everything under the folder hw1. Include your code in a separate directory and 
+call it “Code”; inside hw1. 
+ 
+Keep on updating your repository as many times as you need, and when you are 
+confident of your submission, submits the commit Id of the desired version to 
+the ecommons. 
+ 
+
+Grade 
+
+This assignment is worth 5% of the overall course grade. The assignment will be 
+graded on a 100% grade scale, and then will be scaled down to the 5% its worth. 
+The grading of the assignment will be broken down as follows: 
+
+1. 	10% for just submitting a meaningful assignment before or on the due 
+	date. A submission that contains report and code i.e. if you just submitted 
+	an empty assignment you will get nothing. This 10% does not account for 
+	the correctness of your assignment. 
+2. 	50% for the report. This will account for the correctness of the content of 
+	the survey, and how you present the information. 
+3. 	40% for the code examples correctness and inline documentation. 
+ 
+
+Delays 
+
+You have up to 4 working days of delay, after which the assignment will not be 
+accepted and your grade in that case will be ZERO. For every day (of the 4 
+allowed days), a penalty of 10% will be deducted from the grade. And of course 
+you will lose the 10% mentioned in point 1 above under the “Grade” section. 
